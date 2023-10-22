@@ -74,14 +74,7 @@ function initTyping() {
   }
 }
 //to addtips
-const tips = [
-  "Take typing lessons to learn proper technique and finger placement",
-  "Practice typing regularly to build muscle memory and speed",
-  "Try to minimize errors by focusing on accuracy instead of speed",
-  "Use keyboard shortcuts and hotkeys to increase productivity",
-  "Maintain good posture and ergonomics to reduce strain and fatigue",
-  "Take breaks regularly to avoid burnout and maintain concentration",
-];
+
 //to add tips
 function showTips(wpm) {
   let tipIndex;
